@@ -15,7 +15,7 @@
             },
             "configs": {
                 "order": 0,
-                "active": false,
+                "active": true,
                 "interstitialTime": 0
             }
         },
@@ -28,7 +28,7 @@
             },
             "configs": {
                 "order": 0,
-                "active": false,
+                "active": true,
                 "interstitialTime": 0
             }
         },
@@ -38,20 +38,20 @@
             },
             "configs": {
                 "order": 0,
-                "active": false,
+                "active": true,
                 "interstitialTime": 0
             }
         },
         "applovin_max": {
             "ids": {
                 "applovinMaxAppId": "",
-                "applovinMaxBanner": "",
-                "applovinMaxInterstitial": "",
-                "applovinMaxRewardedVideo": ""
+                "applovinMaxBanner": "a6a8c53349dee4f6",
+                "applovinMaxInterstitial": "cb558b59efe7df1b",
+                "applovinMaxRewardedVideo": "6a67218d3de64271"
             },
             "configs": {
                 "order": 0,
-                "active": false,
+                "active": true,
                 "interstitialTime": 0
             }
         }
