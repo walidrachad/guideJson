@@ -1,0 +1,67 @@
+{
+    "name": "guide app",
+    "image": "images/ic_launcher.png",
+    "description": "This application is A guide",
+    "ads_active": true,
+    "active": true,
+    "ads": {
+        "fan": {
+            "ids": {
+                "fanAppId": "",
+                "fanBanner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+                "fanInterstitial": "IMG_16_9_LINK#2109954819150266_2109960142483067",
+                "fanNativeBanner": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+                "fanRewardedVideo": "VID_HD_16_9_15S_APP_INSTALL#2109954819150266_2109961085816306"
+            },
+            "configs": {
+                "order": 0,
+                "active": true,
+                "interstitialTime": 0
+            }
+        },
+        "admob": {
+            "ids": {
+                "admobAppId": "ca-app-pub-3940256099942544/3419835294",
+                "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+                "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+                "admobInterstitialVideo": "ca-app-pub-3940256099942544/8691691433"
+            },
+            "configs": {
+                "order": 0,
+                "active": true,
+                "interstitialTime": 0
+            }
+        },
+        "ironsource": {
+            "ids": {
+                "ironsourceAppId": "85460dcd"
+            },
+            "configs": {
+                "order": 0,
+                "active": true,
+                "interstitialTime": 0
+            }
+        },
+        "applovin_max": {
+            "ids": {
+                "applovinMaxAppId": "",
+                "applovinMaxBanner": "a6a8c53349dee4f6",
+                "applovinMaxInterstitial": "cb558b59efe7df1b",
+                "applovinMaxRewardedVideo": "6a67218d3de64271"
+            },
+            "configs": {
+                "order": 0,
+                "active": true,
+                "interstitialTime": 0
+            }
+        }
+    },
+    "website": "https:play.google.com/store/apps/details?id=com.android.hub",
+    "onesignal_app_id": null,
+    "rest_api_key": null,
+    "share_me_msg": "Please try to use our application you will enjoy",
+    "fb_page_link": null,
+    "telegram_link": null,
+    "instagram_link": null,
+    "privacy_policy_link": null
+}
